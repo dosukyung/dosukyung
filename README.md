@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요 도수경 입니다.
+<br>
+세미 프로젝트와 파이널 프로젝트의 `README.md`를 참고하셔서
+<br>
+포트폴리오를 봐주시면 감사하겠습니다!😄
 
 <!--
 **dosukyung/dosukyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
